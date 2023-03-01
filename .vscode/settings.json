@@ -2,7 +2,9 @@
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
+  "files.insertFinalNewline": true,
   "deno.enable": true,
+  "deno.lint": true,
   "deno.importMap": "deno.jsonc",
   "[typescript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
