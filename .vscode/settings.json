@@ -3,6 +3,7 @@
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "deno.enable": true,
+  "deno.importMap": "deno.jsonc",
   "[typescript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
   }
